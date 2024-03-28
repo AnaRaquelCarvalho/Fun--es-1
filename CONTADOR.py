@@ -1,7 +1,7 @@
 def mostralinha():
     print('-'*35)
     print('   CONTADOR    ')
-    print('-'*35)
+    print(''*35)
 print('')
 from time import sleep
 
